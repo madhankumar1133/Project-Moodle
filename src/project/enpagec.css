@@ -1,0 +1,16 @@
+.bgten1{
+    background-color: rgba(38, 38, 97, 0.952);
+    border-radius: 20px;
+}
+.bgten2{
+    background-color: rgb(245, 214, 175);
+    border-radius: 20px;
+}
+.bgbut{
+    background-color: transparent;
+    border-radius: 20px;
+    text-decoration: aliceblue;
+}
+.texthead{
+    color: rgba(38, 38, 97, 0.952);
+}
